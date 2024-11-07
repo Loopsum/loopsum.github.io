@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Loopsum</title><link>https://loopsum.github.io</link><description>Welcome to loopspace^_^</description><copyright>Loopsum</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/181551677?s=400&amp;u=b7cf23d74b8f013c5d839e32832aa7d26cecd296&amp;v=4</url><title>avatar</title><link>https://loopsum.github.io</link></image><lastBuildDate>Thu, 07 Nov 2024 06:09:50 +0000</lastBuildDate><managingEditor>Loopsum</managingEditor><ttl>60</ttl><webMaster>Loopsum</webMaster><item><title>测试总结</title><link>https://loopsum.github.io/post/ce-shi-zong-jie.html</link><description>### 三个“#”+空格+大字号标题&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Loopsum</title><link>https://loopsum.github.io</link><description>Welcome to loopspace^_^</description><copyright>Loopsum</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/181551677?s=400&amp;u=b7cf23d74b8f013c5d839e32832aa7d26cecd296&amp;v=4</url><title>avatar</title><link>https://loopsum.github.io</link></image><lastBuildDate>Thu, 07 Nov 2024 06:11:50 +0000</lastBuildDate><managingEditor>Loopsum</managingEditor><ttl>60</ttl><webMaster>Loopsum</webMaster><item><title>测试总结</title><link>https://loopsum.github.io/post/ce-shi-zong-jie.html</link><description># 一个“#”+空格+大字号标题&#13;
 ## 两个“#”+空格+中字号标题&#13;
-# 一个“#”+空格+小字号标题&#13;
-**前后各加两个“*”且无空格为粗体显示**&#13;
-_前后各加一个”_“且无空格为斜体显示_&#13;
+### 三个“#”+空格+小字号标题&#13;
+**前后各加两个星号且无空格为粗体显示**&#13;
+_前后各加一个下划线且无空格斜体显示_&#13;
 &gt; '&gt;'+空格+引用内容&#13;
 - ”-“+空格 分点&#13;
 &#13;
